@@ -1,0 +1,12 @@
+C:\Users\sarredondo\source\repos\LoginProject\UtilsLibrary\bin\Debug\netstandard2.0\UtilsLibrary.deps.json
+C:\Users\sarredondo\source\repos\LoginProject\UtilsLibrary\bin\Debug\netstandard2.0\UtilsLibrary.dll
+C:\Users\sarredondo\source\repos\LoginProject\UtilsLibrary\bin\Debug\netstandard2.0\UtilsLibrary.pdb
+C:\Users\sarredondo\source\repos\LoginProject\UtilsLibrary\bin\Debug\netstandard2.0\LogLibrary.dll
+C:\Users\sarredondo\source\repos\LoginProject\UtilsLibrary\bin\Debug\netstandard2.0\LogLibrary.pdb
+C:\Users\sarredondo\source\repos\LoginProject\UtilsLibrary\obj\Debug\netstandard2.0\UtilsLibrary.csprojAssemblyReference.cache
+C:\Users\sarredondo\source\repos\LoginProject\UtilsLibrary\obj\Debug\netstandard2.0\UtilsLibrary.csproj.CoreCompileInputs.cache
+C:\Users\sarredondo\source\repos\LoginProject\UtilsLibrary\obj\Debug\netstandard2.0\UtilsLibrary.AssemblyInfoInputs.cache
+C:\Users\sarredondo\source\repos\LoginProject\UtilsLibrary\obj\Debug\netstandard2.0\UtilsLibrary.AssemblyInfo.cs
+C:\Users\sarredondo\source\repos\LoginProject\UtilsLibrary\obj\Debug\netstandard2.0\UtilsLibrary.csproj.CopyComplete
+C:\Users\sarredondo\source\repos\LoginProject\UtilsLibrary\obj\Debug\netstandard2.0\UtilsLibrary.dll
+C:\Users\sarredondo\source\repos\LoginProject\UtilsLibrary\obj\Debug\netstandard2.0\UtilsLibrary.pdb

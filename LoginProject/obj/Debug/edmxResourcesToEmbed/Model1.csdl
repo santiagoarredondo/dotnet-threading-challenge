@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="UsersDBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="User">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" />
+    <Property Name="Title" Type="String" MaxLength="60" FixedLength="false" Unicode="false" />
+    <Property Name="FirstName" Type="String" MaxLength="60" FixedLength="false" Unicode="false" />
+    <Property Name="MiddleName" Type="String" MaxLength="60" FixedLength="false" Unicode="false" />
+    <Property Name="LastName" Type="String" MaxLength="60" FixedLength="false" Unicode="false" />
+    <Property Name="Suffix" Type="String" MaxLength="60" FixedLength="false" Unicode="false" />
+    <Property Name="AddressLine1" Type="String" MaxLength="60" FixedLength="false" Unicode="false" />
+    <Property Name="AddressLine2" Type="String" MaxLength="60" FixedLength="false" Unicode="false" />
+    <Property Name="City" Type="String" MaxLength="60" FixedLength="false" Unicode="false" />
+    <Property Name="StateProvinceName" Type="String" MaxLength="60" FixedLength="false" Unicode="false" />
+    <Property Name="CountryRegionName" Type="String" MaxLength="60" FixedLength="false" Unicode="false" />
+    <Property Name="PostalCode" Type="String" MaxLength="60" FixedLength="false" Unicode="false" />
+    <Property Name="PhoneNumber" Type="String" MaxLength="60" FixedLength="false" Unicode="false" />
+    <Property Name="BirthDate" Type="DateTime" Precision="0" />
+    <Property Name="Education" Type="String" MaxLength="60" FixedLength="false" Unicode="false" />
+    <Property Name="Occupation" Type="String" MaxLength="60" FixedLength="false" Unicode="false" />
+    <Property Name="Gender" Type="String" MaxLength="5" FixedLength="false" Unicode="false" />
+    <Property Name="MaritalStatus" Type="String" MaxLength="5" FixedLength="false" Unicode="false" />
+    <Property Name="HomeOwnerFlag" Type="Int32" />
+    <Property Name="NumberCarsOwned" Type="Int32" />
+    <Property Name="NumberChildrenAtHome" Type="Int32" />
+    <Property Name="TotalChildren" Type="Int32" />
+    <Property Name="YearlyIncome" Type="Int32" />
+  </EntityType>
+  <EntityContainer Name="UsersDBEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Users" EntityType="Self.User" />
+  </EntityContainer>
+</Schema>

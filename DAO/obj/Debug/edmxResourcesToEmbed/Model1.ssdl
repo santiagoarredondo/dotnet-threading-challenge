@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="UsersDBModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Users">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" />
+    <Property Name="Title" Type="varchar" MaxLength="60" />
+    <Property Name="FirstName" Type="varchar" MaxLength="60" />
+    <Property Name="MiddleName" Type="varchar" MaxLength="60" />
+    <Property Name="LastName" Type="varchar" MaxLength="60" />
+    <Property Name="Suffix" Type="varchar" MaxLength="60" />
+    <Property Name="AddressLine1" Type="varchar" MaxLength="60" />
+    <Property Name="AddressLine2" Type="varchar" MaxLength="60" />
+    <Property Name="City" Type="varchar" MaxLength="60" />
+    <Property Name="StateProvinceName" Type="varchar" MaxLength="60" />
+    <Property Name="CountryRegionName" Type="varchar" MaxLength="60" />
+    <Property Name="PostalCode" Type="varchar" MaxLength="60" />
+    <Property Name="PhoneNumber" Type="varchar" MaxLength="60" />
+    <Property Name="BirthDate" Type="date" />
+    <Property Name="Education" Type="varchar" MaxLength="60" />
+    <Property Name="Occupation" Type="varchar" MaxLength="60" />
+    <Property Name="Gender" Type="varchar" MaxLength="5" />
+    <Property Name="MaritalStatus" Type="varchar" MaxLength="5" />
+    <Property Name="HomeOwnerFlag" Type="int" />
+    <Property Name="NumberCarsOwned" Type="int" />
+    <Property Name="NumberChildrenAtHome" Type="int" />
+    <Property Name="TotalChildren" Type="int" />
+    <Property Name="YearlyIncome" Type="int" />
+  </EntityType>
+  <EntityContainer Name="UsersDBModelStoreContainer">
+    <EntitySet Name="Users" EntityType="Self.Users" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

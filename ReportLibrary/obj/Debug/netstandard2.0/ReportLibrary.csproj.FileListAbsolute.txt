@@ -1,0 +1,12 @@
+C:\Users\sarredondo\source\repos\LoginProject\ReportLibrary\bin\Debug\netstandard2.0\ReportLibrary.deps.json
+C:\Users\sarredondo\source\repos\LoginProject\ReportLibrary\bin\Debug\netstandard2.0\ReportLibrary.dll
+C:\Users\sarredondo\source\repos\LoginProject\ReportLibrary\bin\Debug\netstandard2.0\ReportLibrary.pdb
+C:\Users\sarredondo\source\repos\LoginProject\ReportLibrary\bin\Debug\netstandard2.0\LogLibrary.dll
+C:\Users\sarredondo\source\repos\LoginProject\ReportLibrary\bin\Debug\netstandard2.0\LogLibrary.pdb
+C:\Users\sarredondo\source\repos\LoginProject\ReportLibrary\obj\Debug\netstandard2.0\ReportLibrary.csprojAssemblyReference.cache
+C:\Users\sarredondo\source\repos\LoginProject\ReportLibrary\obj\Debug\netstandard2.0\ReportLibrary.csproj.CoreCompileInputs.cache
+C:\Users\sarredondo\source\repos\LoginProject\ReportLibrary\obj\Debug\netstandard2.0\ReportLibrary.AssemblyInfoInputs.cache
+C:\Users\sarredondo\source\repos\LoginProject\ReportLibrary\obj\Debug\netstandard2.0\ReportLibrary.AssemblyInfo.cs
+C:\Users\sarredondo\source\repos\LoginProject\ReportLibrary\obj\Debug\netstandard2.0\ReportLibrary.csproj.CopyComplete
+C:\Users\sarredondo\source\repos\LoginProject\ReportLibrary\obj\Debug\netstandard2.0\ReportLibrary.dll
+C:\Users\sarredondo\source\repos\LoginProject\ReportLibrary\obj\Debug\netstandard2.0\ReportLibrary.pdb

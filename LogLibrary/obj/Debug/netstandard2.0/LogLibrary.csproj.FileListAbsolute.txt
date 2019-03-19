@@ -1,0 +1,9 @@
+C:\Users\sarredondo\source\repos\LoginProject\LogLibrary\obj\Debug\netstandard2.0\LogLibrary.csproj.CoreCompileInputs.cache
+C:\Users\sarredondo\source\repos\LoginProject\LogLibrary\obj\Debug\netstandard2.0\LogLibrary.AssemblyInfoInputs.cache
+C:\Users\sarredondo\source\repos\LoginProject\LogLibrary\obj\Debug\netstandard2.0\LogLibrary.AssemblyInfo.cs
+C:\Users\sarredondo\source\repos\LoginProject\LogLibrary\bin\Debug\netstandard2.0\LogLibrary.deps.json
+C:\Users\sarredondo\source\repos\LoginProject\LogLibrary\bin\Debug\netstandard2.0\LogLibrary.dll
+C:\Users\sarredondo\source\repos\LoginProject\LogLibrary\bin\Debug\netstandard2.0\LogLibrary.pdb
+C:\Users\sarredondo\source\repos\LoginProject\LogLibrary\obj\Debug\netstandard2.0\LogLibrary.dll
+C:\Users\sarredondo\source\repos\LoginProject\LogLibrary\obj\Debug\netstandard2.0\LogLibrary.pdb
+C:\Users\sarredondo\source\repos\LoginProject\LogLibrary\obj\Debug\netstandard2.0\LogLibrary.csprojAssemblyReference.cache
